@@ -180,7 +180,7 @@ function App() {
           <div className="container mx-auto max-w-4xl">
             <div className="text-center animate-fade-in-up">
               <img
-                src="/profile.jpg"
+                src="/assets/profile.jpg"
                 alt="Aditya Raj Verma"
                 className="w-40 h-40 rounded-full mx-auto mb-8 object-cover hover:scale-105 transition-transform duration-300 shadow-xl"
               />
