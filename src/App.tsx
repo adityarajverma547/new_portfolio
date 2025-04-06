@@ -247,15 +247,15 @@ function App() {
                   title: "Sign-Language Detection",
                   description: "Real-time Sign detection using CNN and MediaPipe",
                   tech: ["React", "TailwindCSS", "REST API"],
-                  github: "#",
+                  github: "https://github.com/adityarajverma547/sign_language_detection",
                   demo: "#",
                 },
                 {
                   title: "Task Manager",
                   description: "A responsive task management application with authentication",
-                  tech: ["React", "Firebase", "TailwindCSS"],
-                  github: "#",
-                  demo: "#",
+                  tech: ["React","Vite", "Supabase", "TailwindCSS"],
+                  github: "https://github.com/adityarajverma547/Task_manager",
+                  demo: "https://67f2107d24495012459fe78a--taskmanagerq.netlify.app/",
                 },
               ].map((project, index) => (
                 <div
