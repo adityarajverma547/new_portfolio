@@ -393,7 +393,7 @@ function App() {
                         value={formData.email}
                         onChange={handleInputChange}
                         className={`w-full px-4 py-2 rounded-lg border ${formErrors.email ? "border-red-500 dark:border-red-500" : "dark:border-gray-700"} dark:bg-gray-800 dark:text-white focus:ring-2 focus:ring-primary-500 focus:border-transparent transition-all`}
-                        placeholder="adityarajv473@gmail.com"
+                        placeholder="Your Email"
                       />
                       {formErrors.email && <p className="mt-1 text-red-500 text-sm">{formErrors.email}</p>}
                     </div>
